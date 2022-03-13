@@ -1,0 +1,6 @@
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\bin\Debug\EXPLORE.dll
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\bin\Debug\EXPLORE.pdb
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\obj\Debug\EXPLORE.csproj.AssemblyReference.cache
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\obj\Debug\EXPLORE.csproj.CoreCompileInputs.cache
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\obj\Debug\EXPLORE.dll
+C:\Users\bobwt\source\repos\EXPLORE\EXPLORE\obj\Debug\EXPLORE.pdb
